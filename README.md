@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rogélio!
 
-<!--
-**rogelio-fraga-dev/rogelio-fraga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack (Java & TypeScript) focado em sistemas web, APIs REST e aplicações full stack. Trabalho principalmente com:
 
-Here are some ideas to get you started:
+### 🧩 Backend
+- Java 17 • Spring Boot 3  
+- NestJS • Node.js  
+- Autenticação JWT, RBAC  
+- PostgreSQL • MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+- Angular  
+- React / Next.js  
+- TypeScript • Tailwind • PrimeNG  
+
+### 🛠 DevOps & Outros
+- Docker • Docker Compose  
+- Prometheus • Grafana  
+- Git • GitHub  
+- Clean Code • SOLID  
+
+---
+
+## 🚀 Projetos em Destaque
+
+### **Sistema de Gestão de Clínicas — NestJS & Angular**
+Aplicação full stack com autenticação JWT, RBAC, TypeORM, PostgreSQL, módulo de consultas, prontuários e integração com Prometheus/Grafana.  
+🔗 *link para o repositório*
+
+---
+
+### **BarberBot Assist — Spring Boot + WhatsApp + IA**
+Assistente virtual para barbearia usando Spring Boot + Evolution API + OpenAI via LangChain4j.  
+🔗 *link para o repositório*
+
+---
+
+## 📫 Contato
+- Email: **rogelio.claro@gmail.com**  
+- LinkedIn: **linkedin.com/in/rogelio-fraga-dev**  
