@@ -25,13 +25,13 @@ Sou Desenvolvedor Full Stack (Java & TypeScript) focado em sistemas web, APIs RE
 
 ### **Sistema de Gestão de Clínicas — NestJS & Angular**
 Aplicação full stack com autenticação JWT, RBAC, TypeORM, PostgreSQL, módulo de consultas, prontuários e integração com Prometheus/Grafana.  
-🔗 *link para o repositório*
+🔗 [*link para o repositório*](https://github.com/rogelio-fraga-dev/angular-clinica-solo)
 
 ---
 
 ### **BarberBot Assist — Spring Boot + WhatsApp + IA**
 Assistente virtual para barbearia usando Spring Boot + Evolution API + OpenAI via LangChain4j.  
-🔗 *link para o repositório*
+🔗 [*link para o repositório*](https://github.com/rogelio-fraga-dev/barberbot)
 
 ---
 
