@@ -120,7 +120,7 @@ End-to-end development of a **corporate web software** focused on industrial cal
 <summary><b>🧩 Backend</b></summary>
 <br/>
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -259,7 +259,7 @@ End-to-end development of a **corporate web software** focused on industrial cal
 - 🤖 **OpenAI** + **LangChain4j** para respostas inteligentes e contextuais
 - 🗄️ **PostgreSQL** com migrações gerenciadas pelo **Flyway**
 - 🐳 Setup completamente **Dockerizado**
-- ☕ Backend robusto com **Java 17** + **Spring Boot 3**
+- ☕ Backend robusto com **Java 21** + **Spring Boot 3**
 - 🔄 Gerenciamento de estado de conversa e contexto do cliente
 
 </td>
@@ -267,7 +267,7 @@ End-to-end development of a **corporate web software** focused on industrial cal
 
 **Stack:**
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
