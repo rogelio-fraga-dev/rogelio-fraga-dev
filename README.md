@@ -166,7 +166,7 @@ Currently working in a **research and innovation environment**, building full-st
 <br/><br/>
 
 <a href="https://github.com/rogelio-fraga-dev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27&locale=pt_BR" alt="Sequência do GitHub"/>
+  <img src="https://streak-stats.demolab.com/?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27&locale=pt_BR&v=2" alt="Sequência do GitHub"/>
 </a>
 
 <br/><br/>
