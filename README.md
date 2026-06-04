@@ -145,7 +145,7 @@ Currently working in a **research and innovation environment**, building full-st
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rogelio-fraga-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=rogelio-fraga-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Currently working in a **research and innovation environment**, building full-st
 <br/><br/>
 
 <a href="https://github.com/rogelio-fraga-dev">
-  <img src="https://streak-stats.demolab.com?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
