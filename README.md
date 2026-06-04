@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1a3a4a,100:2c5364&height=220&section=header&text=Rogélio%20Claro%20Fraga&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Complex%20Systems%20%7C%20Java%20%2B%20Angular&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1a3a4a,100:2c5364&height=220&section=header&text=Rog%C3%A9lio%20Claro%20Fraga&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Complex%20Systems%20%7C%20Java%20%2B%20Angular&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" alt="Header" width="100%"/>
 
 <div align="center">
 
@@ -9,6 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rogelio--fraga--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogelio-fraga-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-rogeliofragadev.com.br-2c5364?style=for-the-badge&logo=vercel&logoColor=white)](https://rogeliofragadev.com.br/)
 [![Email](https://img.shields.io/badge/Gmail-rogelio.claro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogelio.claro@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rogelio-fraga-dev&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -35,7 +39,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 I'm a **Full Stack Developer focused on complex systems**, working on applications that require **consistency, traceability, and structured decision-making**.
 
-I don’t just build CRUD apps — I work on:
+I don't just build CRUD apps — I work on:
 
 - Modeling **complex business rules**
 - Building **validation and decision flows**
@@ -102,16 +106,48 @@ Currently working in a **research and innovation environment**, building full-st
 
 # ⚙️ Tech Stack
 
-## Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+<div align="center">
 
-## Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+### 💻 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Banco de Dados / Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+### 🚀 DevOps & Ferramentas / Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rogelio-fraga-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
@@ -119,16 +155,39 @@ Currently working in a **research and innovation environment**, building full-st
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogelio-fraga-dev&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogelio-fraga-dev&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/rogelio-fraga-dev">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rogelio-fraga-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/rogelio-fraga-dev">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rogelio-fraga-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="Top Languages"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rogelio-fraga-dev&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/rogelio-fraga-dev">
+  <img src="https://streak-stats.demolab.com?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rogelio-fraga-dev&theme=tokyonight"/>
+<a href="https://github.com/rogelio-fraga-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rogelio-fraga-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogelio-fraga-dev/rogelio-fraga-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogelio-fraga-dev/rogelio-fraga-dev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rogelio-fraga-dev/rogelio-fraga-dev/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -145,4 +204,12 @@ Currently working in a **research and innovation environment**, building full-st
 
 # 💬
 
-> “I don’t build features. I build systems that make decisions.”
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+> "I don't build features. I build systems that make decisions."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1a3a4a,100:2c5364&height=120&section=footer" alt="Footer" width="100%"/>
