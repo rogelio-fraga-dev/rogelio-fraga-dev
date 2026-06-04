@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Construindo+Sistemas+Orientados+a+Decis%C3%A3o;Arquitetura+Orientada+a+Regras;Java+%2B+Spring+Boot+Backend;Angular+%2B+TypeScript+Frontend;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Docker+%7C+Observabilidade+%7C+Escalabilidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Construindo+Sistemas+Orientados+a+Decis%C3%A3o;Building+Decision-Driven+Systems;Java+%2B+Spring+Boot+Backend;Angular+%2B+TypeScript+Frontend;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Docker+%7C+Observabilidade+%7C+Escalabilidade)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,9 @@
 
 ---
 
-# 🧠 Sobre Mim
+# 🧠 Sobre Mim / About Me
+
+### 🇧🇷 Português
 
 Sou **Desenvolvedor Full Stack focado em sistemas complexos**, atuando em aplicações que exigem **consistência, rastreabilidade e tomada de decisão estruturada**.
 
@@ -33,28 +35,58 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# 🏭 O Que Eu Construo
+### 🇺🇸 English
 
+I'm a **Full Stack Developer focused on complex systems**, working on applications that require **consistency, traceability, and structured decision-making**.
+
+I don't just build CRUD apps — I work on:
+
+- Modeling **complex business rules**
+- Building **validation and decision flows**
+- Designing **modular and auditable architectures**
+- Ensuring alignment between **frontend, backend, and domain**
+
+Currently working in a **research and innovation environment**, building full-stack solutions.
+
+---
+
+# 🏭 O Que Eu Construo / What I Build
+
+### 🇧🇷
 - 📊 Processamento de múltiplas variáveis para gerar resultados consistentes  
 - 🔍 Validação antes da execução de regras críticas  
 - 🔄 Transformação de dados complexos em decisões estruturadas  
 - 🧠 Uso de Design Patterns (Strategy, Factory)  
 - ⚙️ Sistemas auditáveis e rastreáveis  
 
+### 🇺🇸
+- 📊 Multi-variable systems generating consistent outputs  
+- 🔍 Validation layers before critical execution  
+- 🔄 Transforming complex inputs into structured decisions  
+- 🧠 Design Pattern-driven architecture  
+- ⚙️ Fully auditable systems  
+
 ---
 
-# 🏗️ Arquitetura & Engenharia
+# 🏗️ Arquitetura & Engenharia / Architecture
 
+### 🇧🇷
 - Clean Architecture aplicada na prática  
 - Separação clara entre domínio, aplicação e infraestrutura  
 - Backend orientado a regras  
 - Frontend orientado a fluxo  
 
+### 🇺🇸
+- Real-world Clean Architecture  
+- Clear separation of domain, application, infrastructure  
+- Backend driven by business rules  
+- Frontend driven by decision flows  
+
 ---
 
-# 🚀 Projetos
+# 🚀 Projetos / Projects
 
-## 🏥 Sistema de Gestão de Clínica
+## 🏥 Sistema de Gestão de Clínica / Clinic Management System
 - JWT + RBAC  
 - Angular + NestJS  
 - Docker + Observabilidade  
@@ -72,7 +104,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# ⚙️ Tecnologias
+# ⚙️ Tecnologias / Tech Stack
 
 <div align="center">
 
@@ -90,12 +122,12 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados / Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
-### 🚀 DevOps & Ferramentas
+### 🚀 DevOps & Ferramentas / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,7 +141,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# 🏆 Troféus do GitHub
+# 🏆 Troféus do GitHub / GitHub Trophies
 
 <div align="center">
 
@@ -119,7 +151,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub / GitHub Stats
 
 <div align="center">
 
@@ -134,7 +166,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 <br/><br/>
 
 <a href="https://github.com/rogelio-fraga-dev">
-  <img src="https://streak-stats.demolab.com/?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência do GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogelio-fraga-dev&theme=tokyonight&hide_border=true&background=1a1b27&locale=pt_BR" alt="Sequência do GitHub"/>
 </a>
 
 <br/><br/>
@@ -147,7 +179,7 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# 🐍 Cobra das Contribuições
+# 🐍 Cobra das Contribuições / Contribution Snake
 
 <div align="center">
 
@@ -161,12 +193,12 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ---
 
-# 🧩 Diferenciais
+# 🧩 Diferenciais / Differentials
 
-- Sistemas orientados a decisão  
-- Modelagem de regras complexas  
-- Arquiteturas auditáveis  
-- Forte consistência entre camadas  
+- Sistemas orientados a decisão / Decision-driven systems  
+- Modelagem de regras complexas / Complex rule modeling  
+- Arquiteturas auditáveis / Auditable architectures  
+- Forte consistência entre camadas / Strong layer consistency  
 
 ---
 
@@ -176,7 +208,8 @@ Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenv
 
 ![Citação Dev](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-> "Eu não construo funcionalidades. Eu construo sistemas que tomam decisões."
+> "Eu não construo funcionalidades. Eu construo sistemas que tomam decisões."  
+> "I don't build features. I build systems that make decisions."
 
 </div>
 
