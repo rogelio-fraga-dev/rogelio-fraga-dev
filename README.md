@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1a3a4a,100:2c5364&height=220&section=header&text=Rog%C3%A9lio%20Claro%20Fraga&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20%7C%20Sistemas%20Complexos%20%7C%20Java%20%2B%20Angular&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:1a3a4a,100:2c5364&height=220&section=header&text=Rog%C3%A9lio%20Claro%20Fraga&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%2B%20Spring%20%7C%20Angular%20%2B%20Next.js&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" alt="Header" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Construindo+Sistemas+Orientados+a+Decis%C3%A3o;Building+Decision-Driven+Systems;Java+%2B+Spring+Boot+Backend;Angular+%2B+TypeScript+Frontend;Clean+Code+%7C+SOLID+%7C+Design+Patterns;Docker+%7C+Observabilidade+%7C+Escalabilidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Pesquisa+%26+Inova%C3%A7%C3%A3o;Java+%2B+Spring+Boot+%7C+Angular+%2B+Next.js;NestJS+Hexagonal+%2F+DDD+%7C+PostgreSQL+%2B+Redis;Multi-tenant+%7C+JWT+%7C+Docker+%7C+AWS;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,85 +22,68 @@
 
 ### 🇧🇷 Português
 
-Sou **Desenvolvedor Full Stack focado em sistemas complexos**, atuando em aplicações que exigem **consistência, rastreabilidade e tomada de decisão estruturada**.
+Sou **Desenvolvedor Full Stack** atuando em **pesquisa e inovação tecnológica na UFU**, construindo sistemas completos do banco de dados ao deploy.
 
-Não trabalho apenas com CRUD. Atuo diretamente em:
+Nos últimos meses entreguei, simultaneamente, **três sistemas reais**: um SaaS B2B multiplataforma (web + desktop) em ambiente de pesquisa, um **marketplace** com arquitetura hexagonal/DDD, e uma plataforma fullstack de gestão financeira de projetos. Não trabalho apenas com CRUD — atuo em:
 
-- Modelagem de **regras de negócio complexas**
-- Construção de **fluxos de validação e decisão**
-- Arquiteturas **modulares e auditáveis**
-- Integração consistente entre **frontend, backend e domínio**
-
-Atualmente atuo em um ambiente de **pesquisa e inovação tecnológica**, desenvolvendo soluções completas.
-
----
+- Modelagem de **regras de negócio complexas** (motor financeiro, isolamento multi-tenant)
+- **Arquiteturas limpas e auditáveis** (Hexagonal/DDD, camadas Controller→Service→Repository)
+- **Segurança aplicada** (JWT, RBAC, isolamento por empresa, auditorias de segurança)
+- Integração consistente entre **frontend, backend, domínio e infraestrutura**
 
 ### 🇺🇸 English
 
-I'm a **Full Stack Developer focused on complex systems**, working on applications that require **consistency, traceability, and structured decision-making**.
+I'm a **Full Stack Developer** working in **technology research & innovation at UFU**, building complete systems from database to deployment.
 
-I don't just build CRUD apps — I work on:
-
-- Modeling **complex business rules**
-- Building **validation and decision flows**
-- Designing **modular and auditable architectures**
-- Ensuring alignment between **frontend, backend, and domain**
-
-Currently working in a **research and innovation environment**, building full-stack solutions.
+Over the past months I've delivered **three real systems** in parallel: a cross-platform B2B SaaS (web + desktop) in a research setting, a **marketplace** with hexagonal/DDD architecture, and a full-stack project finance platform. I don't just build CRUD — I work on complex business rules, clean & auditable architectures, applied security (JWT, RBAC, multi-tenant), and tight integration across frontend, backend, domain and infrastructure.
 
 ---
 
-# 🏭 O Que Eu Construo / What I Build
+# 🚀 Projetos em Destaque / Featured Projects
 
-### 🇧🇷
-- 📊 Processamento de múltiplas variáveis para gerar resultados consistentes  
-- 🔍 Validação antes da execução de regras críticas  
-- 🔄 Transformação de dados complexos em decisões estruturadas  
-- 🧠 Uso de Design Patterns (Strategy, Factory)  
-- ⚙️ Sistemas auditáveis e rastreáveis  
+### 💼 DevFlow Solutions — Gestão Financeira de Projetos (Fullstack)
+Plataforma B2B multi-tenant para viabilidade financeira de contratos de TI: dashboards C-level, timesheets, **Budget Guard** (travas de orçamento no nível do banco), DRE e relatórios PDF.
+> `Angular 21` · `Spring Boot 4` · `Java 21` · `PostgreSQL 16` · `Docker` · `JWT/RBAC` · `Swagger` · multi-tenant · testes
 
-### 🇺🇸
-- 📊 Multi-variable systems generating consistent outputs  
-- 🔍 Validation layers before critical execution  
-- 🔄 Transforming complex inputs into structured decisions  
-- 🧠 Design Pattern-driven architecture  
-- ⚙️ Fully auditable systems  
+🔗 https://github.com/rogelio-fraga-dev/devflow-solutions
 
 ---
 
-# 🏗️ Arquitetura & Engenharia / Architecture
+### 🏗️ ObraCerta — Marketplace de Construção Civil
+Marketplace vertical bilateral (profissionais ↔ clientes) com reputação verificada e busca geoespacial. Monorepo com **arquitetura hexagonal/DDD**, contratos tipados ponta a ponta e ADRs/C4.
+> `Turborepo` · `Next.js 15 (RSC)` · `NestJS (Hexagonal/DDD)` · `PostgreSQL + PostGIS` · `Redis` · `Zod` · `TypeScript`
 
-### 🇧🇷
-- Clean Architecture aplicada na prática  
-- Separação clara entre domínio, aplicação e infraestrutura  
-- Backend orientado a regras  
-- Frontend orientado a fluxo  
-
-### 🇺🇸
-- Real-world Clean Architecture  
-- Clear separation of domain, application, infrastructure  
-- Backend driven by business rules  
-- Frontend driven by decision flows  
+🔗 https://github.com/rogelio-fraga-dev/obracerta
 
 ---
 
-# 🚀 Projetos / Projects
-
-## 🏥 Sistema de Gestão de Clínica / Clinic Management System
-- JWT + RBAC  
-- Angular + NestJS  
-- Docker + Observabilidade  
-
-🔗 https://github.com/rogelio-fraga-dev/angular-clinica-solo  
+### 🔬 InovaLayer / MADA — SaaS de Pesquisa & Inovação *(sob NDA)*
+SaaS B2B multiplataforma desenvolvido em ambiente de pesquisa, onde atuo como **engenheiro principal**. Aplicação web + **app desktop (Electron)** + API, com internacionalização (PT/EN), deploy em nuvem **AWS** e múltiplas auditorias de segurança.
+> `Spring Boot` · `Java 21` · `Angular 21` · `Electron` · `PostgreSQL` · `JWT (httpOnly)` · `AWS` · `i18n`
+>
+> 🔒 *Repositório privado — detalhes de domínio omitidos por NDA.*
 
 ---
 
-## 💈 BarberBot Assist
-- OpenAI + WhatsApp  
-- Spring Boot  
-- PostgreSQL + Flyway  
+# 🧩 Outros Projetos / Other Projects
 
-🔗 https://github.com/rogelio-fraga-dev/barberbot  
+### 🏥 Sistema de Gestão de Clínica
+Monorepo de gestão clínica com observabilidade.
+> `Angular 20` · `NestJS 11` · `Docker` · `Prometheus` · `JWT/RBAC`
+
+🔗 https://github.com/rogelio-fraga-dev/angular-clinica-solo
+
+### 💈 BarberBot Assist
+Assistente de agendamento via WhatsApp com IA.
+> `Spring Boot` · `PostgreSQL` · `Flyway` · `WhatsApp (Evolution API)` · `OpenAI`
+
+🔗 https://github.com/rogelio-fraga-dev/barberbot-core
+
+### 🌐 Sites & Landing Pages (clientes reais)
+Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
+> `HTML5` · `CSS3` · `JavaScript` · `SEO` · `Google Ads`
+
+🔗 https://github.com/rogelio-fraga-dev/psicologa-vanessa · 🔗 https://github.com/rogelio-fraga-dev/portfolio-base
 
 ---
 
@@ -114,30 +97,42 @@ Currently working in a **research and innovation environment**, building full-st
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Banco de Dados / Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
 ### 🚀 DevOps & Ferramentas / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+---
+
+# 🏗️ Arquitetura & Engenharia / Architecture
+
+- **Clean Architecture** e **Hexagonal/DDD** aplicadas na prática / applied for real
+- Separação clara entre **domínio, aplicação e infraestrutura** / clear domain–app–infra separation
+- Backend orientado a **regras de negócio**; frontend orientado a **fluxo** / rule-driven backend, flow-driven frontend
+- **Segurança** e **multi-tenancy** como cidadãos de primeira classe / first-class security & multi-tenancy
 
 ---
 
@@ -195,14 +190,12 @@ Currently working in a **research and innovation environment**, building full-st
 
 # 🧩 Diferenciais / Differentials
 
-- Sistemas orientados a decisão / Decision-driven systems  
-- Modelagem de regras complexas / Complex rule modeling  
-- Arquiteturas auditáveis / Auditable architectures  
-- Forte consistência entre camadas / Strong layer consistency  
+- Sistemas fullstack **completos** — do banco ao deploy / full-stack systems end-to-end
+- **Arquiteturas auditáveis** (Hexagonal/DDD, Clean Architecture)
+- **Segurança e multi-tenancy** aplicadas / applied security & multi-tenancy
+- Entrega para **clientes e pesquisa reais** / delivery for real clients & research
 
 ---
-
-# 💬
 
 <div align="center">
 
