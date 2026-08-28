@@ -22,9 +22,9 @@
 
 ### 🇧🇷 Português
 
-Sou **Desenvolvedor Full Stack**, **graduado em Análise e Desenvolvimento de Sistemas** (IMEPAC, ago/2026), **engenheiro principal** na **InovaLayer** — pesquisa e inovação tecnológica ligada à **UFU** — e **professor de Técnicas de Programação para Internet** em curso técnico.
+Sou **Desenvolvedor Full Stack**, **graduado em Análise e Desenvolvimento de Sistemas** (IMEPAC, ago/2026), **engenheiro principal** na **InovaLayer** (pesquisa e inovação tecnológica ligada à **UFU**) e **professor de Técnicas de Programação para Internet** em curso técnico.
 
-Construo sistemas completos, do modelo de domínio ao provisionamento da nuvem. Entreguei em paralelo **cinco frentes reais**: um SaaS B2B multiplataforma (web + desktop) em ambiente de pesquisa, um **marketplace** com arquitetura hexagonal/DDD, uma plataforma de gestão financeira de projetos, um **SaaS multi-tenant** com IA no WhatsApp e uma **plataforma de ensino em produção**, usada hoje por ~75 alunos. Não trabalho apenas com CRUD — atuo em:
+Construo sistemas completos, do modelo de domínio ao provisionamento da nuvem. Entreguei em paralelo **cinco frentes reais**: um SaaS B2B multiplataforma (web + desktop) em ambiente de pesquisa, um **marketplace** com arquitetura hexagonal/DDD, uma plataforma de gestão financeira de projetos, um **SaaS multi-tenant** com IA no WhatsApp e uma **plataforma de ensino em produção**, usada hoje por ~75 alunos. Não trabalho apenas com CRUD. Atuo em:
 
 - Modelagem de **regras de negócio complexas** (motor financeiro, motor de custos industriais, isolamento multi-tenant)
 - **Arquiteturas limpas e auditáveis** (Hexagonal/DDD, camadas Controller→Service→Repository)
@@ -34,15 +34,15 @@ Construo sistemas completos, do modelo de domínio ao provisionamento da nuvem. 
 
 ### 🇺🇸 English
 
-I'm a **Full Stack Developer**, a **Systems Analysis & Development graduate** (IMEPAC, Aug 2026), **lead engineer** at **InovaLayer** — technology research & innovation tied to **UFU** — and a **programming teacher** at a technical high school.
+I'm a **Full Stack Developer**, a **Systems Analysis & Development graduate** (IMEPAC, Aug 2026), **lead engineer** at **InovaLayer** (technology research & innovation tied to **UFU**) and a **programming teacher** at a technical high school.
 
-I build complete systems, from the domain model to cloud provisioning. I've delivered **five real fronts** in parallel: a cross-platform B2B SaaS (web + desktop) in a research setting, a **marketplace** with hexagonal/DDD architecture, a full-stack project finance platform, a **multi-tenant SaaS** with AI over WhatsApp, and a **teaching platform running in production** for ~75 students. I don't just build CRUD — I work on complex business rules, clean & auditable architectures, applied security (JWT, RBAC, multi-tenancy), **infrastructure as code** (Terraform on AWS) with **OIDC-based CI/CD**, and tight integration across frontend, backend, domain and infrastructure.
+I build complete systems, from the domain model to cloud provisioning. I've delivered **five real fronts** in parallel: a cross-platform B2B SaaS (web + desktop) in a research setting, a **marketplace** with hexagonal/DDD architecture, a full-stack project finance platform, a **multi-tenant SaaS** with AI over WhatsApp, and a **teaching platform running in production** for ~75 students. I don't just build CRUD. I work on complex business rules, clean & auditable architectures, applied security (JWT, RBAC, multi-tenancy), **infrastructure as code** (Terraform on AWS) with **OIDC-based CI/CD**, and tight integration across frontend, backend, domain and infrastructure.
 
 ---
 
 # 🚀 Projetos em Destaque / Featured Projects
 
-### 💼 DevFlow Solutions — Gestão Financeira de Projetos (Fullstack)
+### 💼 DevFlow Solutions: Gestão Financeira de Projetos (Fullstack)
 Plataforma B2B multi-tenant para viabilidade financeira de contratos de TI: dashboards C-level, timesheets, **Budget Guard** (travas de orçamento no nível do banco), DRE e relatórios PDF.
 > `Angular 21` · `Spring Boot 4` · `Java 21` · `PostgreSQL 16` · `Docker` · `JWT/RBAC` · `Swagger` · multi-tenant · testes
 
@@ -50,7 +50,7 @@ Plataforma B2B multi-tenant para viabilidade financeira de contratos de TI: dash
 
 ---
 
-### 🏗️ ObraCerta — Marketplace de Construção Civil
+### 🏗️ ObraCerta: Marketplace de Construção Civil
 Marketplace vertical bilateral (profissionais ↔ clientes) com reputação verificada e busca geoespacial. Monorepo com **arquitetura hexagonal/DDD**, contratos tipados ponta a ponta e ADRs/C4.
 > `Turborepo` · `Next.js 15 (RSC)` · `NestJS (Hexagonal/DDD)` · `PostgreSQL + PostGIS` · `Redis` · `Zod` · `TypeScript`
 
@@ -58,23 +58,23 @@ Marketplace vertical bilateral (profissionais ↔ clientes) com reputação veri
 
 ---
 
-### 🔬 InovaLayer / MADA — SaaS de Manufatura Aditiva (WAAM) *(sob NDA)*
+### 🔬 InovaLayer / MADA: SaaS de Manufatura Aditiva (WAAM) *(sob NDA)*
 SaaS B2B multiplataforma para orçamentação de peças em manufatura aditiva metálica, onde atuo como **engenheiro principal**. Aplicação web + **app desktop (Electron)** + API, com internacionalização (PT/EN) e **toda a infraestrutura AWS em Terraform** (VPC, EC2, RDS, S3, CloudFront, ACM, SES, SSM, IAM, CloudWatch), com deploy contínuo via OIDC.
 > `Spring Boot` · `Java 21` · `Angular 21` · `Electron` · `PostgreSQL` · `Terraform` · `AWS` · `JWT (httpOnly)` · `i18n`
 >
-> 🌐 https://inovalayer.com.br · 🔒 *Repositório privado — detalhes de domínio omitidos por NDA.*
+> 🌐 https://inovalayer.com.br · 🔒 *Repositório privado. Detalhes de domínio omitidos por NDA.*
 
 ---
 
-### 🎓 Sistema de Aulas — Plataforma de Ensino em Produção
+### 🎓 Sistema de Aulas: Plataforma de Ensino em Produção
 Plataforma que construí para dar aula e que hoje é usada por **~75 alunos** em duas turmas. Editor de código com prévia ao vivo e **painel-modelo** que acompanha o progresso linha a linha, quiz com ranking em tempo real, entregas com prazo automático por calendário e painel de presença para o professor. **244 testes**, deploy em dois minutos por GitHub Actions com **OIDC + SSM** e `pg_dump` antes de cada migração.
 > `Spring Boot 3.4` · `Java 21` · `Thymeleaf` · `PostgreSQL + Flyway` · `Docker` · `AWS EC2` · `Nginx` · `GitHub Actions`
 >
-> 🔒 *Repositório privado — é uma área de alunos menores de idade.*
+> 🔒 *Repositório privado, por ser uma área de alunos menores de idade.*
 
 ---
 
-### 🧊 WireArc3D — Trajetórias para Manufatura Aditiva *(contribuição)*
+### 🧊 WireArc3D: Trajetórias para Manufatura Aditiva *(contribuição)*
 Aplicação desktop de geração de trajetórias otimizadas para **WAAM**: lê modelos STL, fatia a peça, resolve um TSP para ordenar o percurso e exporta G-code, com viewport 3D e aceleração por GPU. Projeto **de terceiros**, no qual atuo como **colaborador**.
 > `Python 3.12` · `PyQt5` · `PyVista` · `CUDA / CuPy` · `FastAPI` · `TSP (LKH)`
 >
@@ -94,7 +94,7 @@ Monorepo de gestão clínica com observabilidade.
 SaaS **multi-tenant** onde uma IA atende, agenda e cobra pelo WhatsApp, com painel web para o dono. Agenda multiprofissional, financeiro com DRE, estoque, clube de assinatura e site white-label. **235 testes**, integração em PostgreSQL real via Testcontainers.
 > `Spring Boot 3` · `React 18` · `PostgreSQL` · `Flyway` · `WhatsApp (Evolution API)` · `OpenAI (GPT-4o/Whisper)`
 >
-> 🔒 *Repositório privado — produto proprietário.*
+> 🔒 *Repositório privado (produto proprietário).*
 
 ### 🌐 Sites & Landing Pages (clientes reais)
 Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
@@ -213,7 +213,7 @@ Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 
 # 🧩 Diferenciais / Differentials
 
-- Sistemas fullstack **completos** — do banco ao deploy / full-stack systems end-to-end
+- Sistemas fullstack **completos**, do banco ao deploy / full-stack systems end-to-end
 - **Arquiteturas auditáveis** (Hexagonal/DDD, Clean Architecture)
 - **Segurança e multi-tenancy** aplicadas / applied security & multi-tenancy
 - **Infraestrutura como código** e CI/CD sem chaves de longa duração / IaC & keyless CI/CD
