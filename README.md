@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Pesquisa+%26+Inova%C3%A7%C3%A3o;Java+%2B+Spring+Boot+%7C+Angular+%2B+Next.js;NestJS+Hexagonal+%2F+DDD+%7C+PostgreSQL+%2B+Redis;Multi-tenant+%7C+JWT+%7C+Docker+%7C+AWS;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Pesquisa+%26+Inova%C3%A7%C3%A3o;Professor+de+Programa%C3%A7%C3%A3o+para+Internet;Java+%2B+Spring+Boot+%7C+Angular+%2B+Next.js;NestJS+Hexagonal+%2F+DDD+%7C+PostgreSQL+%2B+Redis;Terraform+%2B+AWS+%7C+CI%2FCD+com+OIDC;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,20 +22,21 @@
 
 ### 🇧🇷 Português
 
-Sou **Desenvolvedor Full Stack** atuando em **pesquisa e inovação tecnológica na UFU**, construindo sistemas completos do banco de dados ao deploy.
+Sou **Desenvolvedor Full Stack**, **graduado em Análise e Desenvolvimento de Sistemas** (IMEPAC, ago/2026), **engenheiro principal** na **InovaLayer** — pesquisa e inovação tecnológica ligada à **UFU** — e **professor de Técnicas de Programação para Internet** em curso técnico.
 
-Nos últimos meses entreguei, simultaneamente, **três sistemas reais**: um SaaS B2B multiplataforma (web + desktop) em ambiente de pesquisa, um **marketplace** com arquitetura hexagonal/DDD, e uma plataforma fullstack de gestão financeira de projetos. Não trabalho apenas com CRUD — atuo em:
+Construo sistemas completos, do modelo de domínio ao provisionamento da nuvem. Entreguei em paralelo **cinco frentes reais**: um SaaS B2B multiplataforma (web + desktop) em ambiente de pesquisa, um **marketplace** com arquitetura hexagonal/DDD, uma plataforma de gestão financeira de projetos, um **SaaS multi-tenant** com IA no WhatsApp e uma **plataforma de ensino em produção**, usada hoje por ~75 alunos. Não trabalho apenas com CRUD — atuo em:
 
-- Modelagem de **regras de negócio complexas** (motor financeiro, isolamento multi-tenant)
+- Modelagem de **regras de negócio complexas** (motor financeiro, motor de custos industriais, isolamento multi-tenant)
 - **Arquiteturas limpas e auditáveis** (Hexagonal/DDD, camadas Controller→Service→Repository)
-- **Segurança aplicada** (JWT, RBAC, isolamento por empresa, auditorias de segurança)
+- **Segurança aplicada** (JWT, RBAC, isolamento por tenant, auditorias de segurança)
+- **Infraestrutura como código** (Terraform na AWS) e **CI/CD com OIDC**, sem chaves de longa duração
 - Integração consistente entre **frontend, backend, domínio e infraestrutura**
 
 ### 🇺🇸 English
 
-I'm a **Full Stack Developer** working in **technology research & innovation at UFU**, building complete systems from database to deployment.
+I'm a **Full Stack Developer**, a **Systems Analysis & Development graduate** (IMEPAC, Aug 2026), **lead engineer** at **InovaLayer** — technology research & innovation tied to **UFU** — and a **programming teacher** at a technical high school.
 
-Over the past months I've delivered **three real systems** in parallel: a cross-platform B2B SaaS (web + desktop) in a research setting, a **marketplace** with hexagonal/DDD architecture, and a full-stack project finance platform. I don't just build CRUD — I work on complex business rules, clean & auditable architectures, applied security (JWT, RBAC, multi-tenant), and tight integration across frontend, backend, domain and infrastructure.
+I build complete systems, from the domain model to cloud provisioning. I've delivered **five real fronts** in parallel: a cross-platform B2B SaaS (web + desktop) in a research setting, a **marketplace** with hexagonal/DDD architecture, a full-stack project finance platform, a **multi-tenant SaaS** with AI over WhatsApp, and a **teaching platform running in production** for ~75 students. I don't just build CRUD — I work on complex business rules, clean & auditable architectures, applied security (JWT, RBAC, multi-tenancy), **infrastructure as code** (Terraform on AWS) with **OIDC-based CI/CD**, and tight integration across frontend, backend, domain and infrastructure.
 
 ---
 
@@ -57,11 +58,27 @@ Marketplace vertical bilateral (profissionais ↔ clientes) com reputação veri
 
 ---
 
-### 🔬 InovaLayer / MADA — SaaS de Pesquisa & Inovação *(sob NDA)*
-SaaS B2B multiplataforma desenvolvido em ambiente de pesquisa, onde atuo como **engenheiro principal**. Aplicação web + **app desktop (Electron)** + API, com internacionalização (PT/EN), deploy em nuvem **AWS** e múltiplas auditorias de segurança.
-> `Spring Boot` · `Java 21` · `Angular 21` · `Electron` · `PostgreSQL` · `JWT (httpOnly)` · `AWS` · `i18n`
+### 🔬 InovaLayer / MADA — SaaS de Manufatura Aditiva (WAAM) *(sob NDA)*
+SaaS B2B multiplataforma para orçamentação de peças em manufatura aditiva metálica, onde atuo como **engenheiro principal**. Aplicação web + **app desktop (Electron)** + API, com internacionalização (PT/EN) e **toda a infraestrutura AWS em Terraform** (VPC, EC2, RDS, S3, CloudFront, ACM, SES, SSM, IAM, CloudWatch), com deploy contínuo via OIDC.
+> `Spring Boot` · `Java 21` · `Angular 21` · `Electron` · `PostgreSQL` · `Terraform` · `AWS` · `JWT (httpOnly)` · `i18n`
 >
-> 🔒 *Repositório privado — detalhes de domínio omitidos por NDA.*
+> 🌐 https://inovalayer.com.br · 🔒 *Repositório privado — detalhes de domínio omitidos por NDA.*
+
+---
+
+### 🎓 Sistema de Aulas — Plataforma de Ensino em Produção
+Plataforma que construí para dar aula e que hoje é usada por **~75 alunos** em duas turmas. Editor de código com prévia ao vivo e **painel-modelo** que acompanha o progresso linha a linha, quiz com ranking em tempo real, entregas com prazo automático por calendário e painel de presença para o professor. **244 testes**, deploy em dois minutos por GitHub Actions com **OIDC + SSM** e `pg_dump` antes de cada migração.
+> `Spring Boot 3.4` · `Java 21` · `Thymeleaf` · `PostgreSQL + Flyway` · `Docker` · `AWS EC2` · `Nginx` · `GitHub Actions`
+>
+> 🔒 *Repositório privado — é uma área de alunos menores de idade.*
+
+---
+
+### 🧊 WireArc3D — Trajetórias para Manufatura Aditiva *(contribuição)*
+Aplicação desktop de geração de trajetórias otimizadas para **WAAM**: lê modelos STL, fatia a peça, resolve um TSP para ordenar o percurso e exporta G-code, com viewport 3D e aceleração por GPU. Projeto **de terceiros**, no qual atuo como **colaborador**.
+> `Python 3.12` · `PyQt5` · `PyVista` · `CUDA / CuPy` · `FastAPI` · `TSP (LKH)`
+>
+> 🔒 *Repositório privado de terceiros.*
 
 ---
 
@@ -73,17 +90,17 @@ Monorepo de gestão clínica com observabilidade.
 
 🔗 https://github.com/rogelio-fraga-dev/angular-clinica-solo
 
-### 💈 BarberBot Assist
-Assistente de agendamento via WhatsApp com IA.
-> `Spring Boot` · `PostgreSQL` · `Flyway` · `WhatsApp (Evolution API)` · `OpenAI`
-
-🔗 https://github.com/rogelio-fraga-dev/barberbot-core
+### 💈 Razor *(ex-BarberBot Assist)*
+SaaS **multi-tenant** onde uma IA atende, agenda e cobra pelo WhatsApp, com painel web para o dono. Agenda multiprofissional, financeiro com DRE, estoque, clube de assinatura e site white-label. **235 testes**, integração em PostgreSQL real via Testcontainers.
+> `Spring Boot 3` · `React 18` · `PostgreSQL` · `Flyway` · `WhatsApp (Evolution API)` · `OpenAI (GPT-4o/Whisper)`
+>
+> 🔒 *Repositório privado — produto proprietário.*
 
 ### 🌐 Sites & Landing Pages (clientes reais)
 Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 > `HTML5` · `CSS3` · `JavaScript` · `SEO` · `Google Ads`
 
-🔗 https://github.com/rogelio-fraga-dev/psicologa-vanessa · 🔗 https://github.com/rogelio-fraga-dev/portfolio-base
+🌐 https://psialvesvanessa.com.br · 🔗 https://github.com/rogelio-fraga-dev/portfolio-base
 
 ---
 
@@ -93,6 +110,7 @@ Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 
 ### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -104,7 +122,9 @@ Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -117,6 +137,9 @@ Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 ### 🚀 DevOps & Ferramentas / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -193,7 +216,8 @@ Páginas institucionais e de conversão para clientes, com SEO e Google Ads.
 - Sistemas fullstack **completos** — do banco ao deploy / full-stack systems end-to-end
 - **Arquiteturas auditáveis** (Hexagonal/DDD, Clean Architecture)
 - **Segurança e multi-tenancy** aplicadas / applied security & multi-tenancy
-- Entrega para **clientes e pesquisa reais** / delivery for real clients & research
+- **Infraestrutura como código** e CI/CD sem chaves de longa duração / IaC & keyless CI/CD
+- Entrega para **clientes, pesquisa e sala de aula reais** / delivery for real clients, research & classroom
 
 ---
 
